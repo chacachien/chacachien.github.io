@@ -1,4 +1,3 @@
-
 <html>
 <head>
 	<title>Trau</title>
@@ -12,7 +11,7 @@
 		<table border="1">
 			<tr>
 				<th colspan="2">Phân loại khoa học</th>
-				<th rowspan="6"><img src="anh.jpg" width="100" height="100" /> </th> 
+				<th rowspan="6"><img src="anh.jpg" width="500" height="500" /> </th> 
 			</tr>
 			<tr>
 				<td>Lớp</td> 
