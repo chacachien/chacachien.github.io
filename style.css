@@ -6,7 +6,7 @@ body{
     font-size: x-large;
 }
 #wholeCal{
-    max-width: 1000px;
+    max-width: 1200px;
     /* width: 1000px;
     height: 1000px; */
     background: rgb(26,34,40);
@@ -17,12 +17,17 @@ body{
     background-color: #ccc;
     border: none;
     border-radius: 5px;
+    min-height: 13vh;
 }
 .num:hover{
     background-color: rgb(245, 180, 231);
 }
 .func:hover{
     background-color: rgb(203, 147, 238);
+}
+#point:hover{
+    background-color: rgb(245, 180, 231);
+    font-size: 1.5rem;
 }
 .screen{
     flex-grow: 1;
